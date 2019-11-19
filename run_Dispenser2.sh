@@ -37,9 +37,4 @@ Moves to proper directory where the dispenser code is located, and runs Dispense
 cd /var/lib/cloud9/ENGI301/project_01
 
 
-config-pin P2_1 pwm
-config-pin P2_3 pwm
-config-pin P2_4 pwm
-
-
 python3 Dispense2.py
